@@ -1,0 +1,48 @@
+window {
+  margin: 0px;
+  //border: 1px solid #b8bb26;
+  background-color: #44475a;
+  font-family: Cousine Nerd Font;
+  }
+  
+  #input {
+  margin: 5px;
+  border: none;
+  color: #b8bb26;
+  background-color: #44475a;
+  }
+  
+  #inner-box {
+  margin: 10px;
+  border: none;
+  background-color: #282a36;
+  }
+  
+  #outer-box {
+  margin: 0px;
+  border: none;
+  background-color: #282a36;
+  }
+  
+  #text {
+  margin: 5px;
+  border: none;
+  color: #b8bb26;
+  } 
+
+  #entry {
+  display: none;
+  background-color: #282a36;
+  margin: 0px 0;
+  border: none;
+  }
+  
+  #entry:selected {
+  background-color: #44475a;
+  }
+
+  #img {
+  display: none;
+  size: 0;
+  }
+
