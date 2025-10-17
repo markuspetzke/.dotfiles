@@ -1,5 +1,0 @@
-{
-    'mcrjkb/rustaceanvim',
-    version = '⁵',
-    lazy = false,
-  }
